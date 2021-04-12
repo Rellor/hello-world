@@ -1,2 +1,2 @@
 # hello-world
-This is a test repository
+My name is Bas and this is a test to learn how Github works.
